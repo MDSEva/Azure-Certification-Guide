@@ -47,7 +47,7 @@ You should have the following items ready before beginning the process:
 <a name="PrepareDevice"></a>
 # Step 2: Prepare your Device
 
--   {{Write down the instructions required to setup, configure and connect your device. Please use external links when possible pointing to your own page with device preparation steps.}}
+-   Turn on your {enter your device name here} device and connect to internet.
 
 <a name="Build"></a>
 # Step 3: Build and Run the sample
